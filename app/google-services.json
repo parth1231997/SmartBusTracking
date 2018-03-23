@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "2681104921",
+    "firebase_url": "https://smartbustracking-50d0c.firebaseio.com",
+    "project_id": "smartbustracking-50d0c",
+    "storage_bucket": "smartbustracking-50d0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2681104921:android:80a4e33d49dcace7",
+        "android_client_info": {
+          "package_name": "com.example.parthbambhaniya.smartbustracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2681104921-umuumlasnnru21977ecbta446uemjen5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parthbambhaniya.smartbustracking",
+            "certificate_hash": "177f86cf3a17c5ca61d777e569f5f56b79fb6e83"
+          }
+        },
+        {
+          "client_id": "2681104921-fqlque1fkm3no38uppf561680q3e65k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parthbambhaniya.smartbustracking",
+            "certificate_hash": "dfde13096d00ed4e9abcd9e5c4380ea07ca17c18"
+          }
+        },
+        {
+          "client_id": "2681104921-hcna8nhtahd48usoo7b0utlofkdt01e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1aO_QQhfGdouSlwlwigHROifQsN34trw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2681104921-hcna8nhtahd48usoo7b0utlofkdt01e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2681104921:android:12cf80c5bd545549",
+        "android_client_info": {
+          "package_name": "com.example.parthbambhaniya.smartbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2681104921-0ssp6jfshrnj50346orum91gg6boeoa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parthbambhaniya.smartbus",
+            "certificate_hash": "dfde13096d00ed4e9abcd9e5c4380ea07ca17c18"
+          }
+        },
+        {
+          "client_id": "2681104921-hcna8nhtahd48usoo7b0utlofkdt01e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1aO_QQhfGdouSlwlwigHROifQsN34trw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2681104921-hcna8nhtahd48usoo7b0utlofkdt01e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

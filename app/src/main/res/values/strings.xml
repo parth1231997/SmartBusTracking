@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Smart Bus Tracking</string>
+    <string name="register_user">Register User</string>
+    <string name="register">Sign up</string>
+    <string name="cancel">Cancel</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_account_sign_in">Already have account? sign in</string>
+    <string name="new_user_tap_here_to_register">New user, Tap here to Register!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="near_by_stop">Near by Stops</string>
+    <string name="find_me">Find Me</string>
+    <string name="notifications">Notifications</string>
+    <string name="plan_trip">Plan Your Trip</string>
+    <string name="search_place">Search Place</string>
+    <string name="select_route">Select Route</string>
+    <string name="time_table">Bus Time Table</string>
+    <string name="track_bus">Track Bus</string>
+    <string name="search_route">Search Route</string>
+
+    <array name="city">
+        <item>Rajkot</item>
+        <item>Ahmedabad</item>
+        <item>Bhuj</item>
+        <item>Amreli</item>
+        <item>Jamnagar</item>
+
+    </array>
+    <string name="title_activity_maps">Map</string>
+    <string name="search">Search</string>
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!--Login-->
+    <dimen name="img_width">200dp</dimen>
+    <dimen name="img_height">100dp</dimen>
+    <dimen name="space_height">30dp</dimen>
+    <dimen name="space_mid_height">20dp</dimen>
+    <dimen name="margin">30dp</dimen>
+
+    <dimen name="login_layout_width">600dp</dimen>
+    <dimen name="login_layout_height">700dp</dimen>
+    <dimen name="loginbox_padding">20dp</dimen>
+    <dimen name="layoout_elevation">4dp</dimen>
+    <dimen name="logininnerbox_padding">30dp</dimen>
+    <dimen name="loginusername_margintop">16dp</dimen>
+    <dimen name="login_button_margin">22dp</dimen>
+    <dimen name="matrimonialform_textsize">20dp</dimen>
+    <dimen name="marginbtwn_ed">10dp</dimen>
+
+    <!--For divider height-->
+    <dimen name="divider_height">0.5dp</dimen>
+    <dimen name="divider_normal_height">0.5dp</dimen>
+
+    <!-- Icons -->
+    <dimen name="toolbar_icon_size">30dp</dimen>
+    <dimen name="icon_size">30dp</dimen>
+    <dimen name="toast_icon_size">35dp</dimen>
+
+
+    <!-- Scales -->
+    <dimen name="scale_0_25dp">0.25dp</dimen>
+    <dimen name="scale_0_5dp">0.5dp</dimen>
+    <dimen name="scale_0dp">0dp</dimen>
+    <dimen name="scale_1dp">1dp</dimen>
+    <dimen name="scale_2dp">2dp</dimen>
+    <dimen name="scale_3dp">3dp</dimen>
+    <dimen name="scale_4dp">4dp</dimen>
+    <dimen name="scale_5dp">5dp</dimen>
+    <dimen name="scale_6dp">6dp</dimen>
+    <dimen name="scale_7dp">7dp</dimen>
+    <dimen name="scale_8dp">8dp</dimen>
+    <dimen name="scale_10dp">10dp</dimen>
+    <dimen name="scale_m_10dp">-15dp</dimen>
+    <dimen name="scale_12dp">12dp</dimen>
+    <dimen name="scale_13dp">13dp</dimen>
+    <dimen name="scale_14dp">14dp</dimen>
+    <dimen name="scale_14_5dp">14.5dp</dimen>
+    <dimen name="scale_15dp">15dp</dimen>
+    <dimen name="scale_16dp">16dp</dimen>
+    <dimen name="scale_17dp">17dp</dimen>
+    <dimen name="scale_18dp">18dp</dimen>
+    <dimen name="scale_20dp">20dp</dimen>
+    <dimen name="scale_22dp">22dp</dimen>
+    <dimen name="scale_23dp">23dp</dimen>
+    <dimen name="scale_25dp">25dp</dimen>
+    <dimen name="scale_27dp">27dp</dimen>
+    <dimen name="scale_30dp">30dp</dimen>
+    <dimen name="scale_32dp">32dp</dimen>
+    <dimen name="scale_33dp">33dp</dimen>
+    <dimen name="scale_35dp">35dp</dimen>
+    <dimen name="scale_38dp">38dp</dimen>
+    <dimen name="scale_40dp">40dp</dimen>
+    <dimen name="scale_42dp">42dp</dimen>
+    <dimen name="scale_45dp">45dp</dimen>
+    <dimen name="scale_47dp">47dp</dimen>
+    <dimen name="scale_50dp">50dp</dimen>
+    <dimen name="scale_55dp">55dp</dimen>
+    <dimen name="scale_60dp">60dp</dimen>
+    <dimen name="scale_65dp">65dp</dimen>
+    <dimen name="scale_70dp">70dp</dimen>
+    <dimen name="scale_75dp">75dp</dimen>
+    <dimen name="scale_80dp">80dp</dimen>
+    <dimen name="scale_85dp">85dp</dimen>
+    <dimen name="scale_90dp">90dp</dimen>
+    <dimen name="scale_95dp">95dp</dimen>
+    <dimen name="scale_100dp">100dp</dimen>
+    <dimen name="scale_110dp">110dp</dimen>
+    <dimen name="scale_120dp">120dp</dimen>
+    <dimen name="scale_125dp">125dp</dimen>
+    <dimen name="scale_130dp">130dp</dimen>
+    <dimen name="scale_137dp">137dp</dimen>
+    <dimen name="scale_140dp">140dp</dimen>
+    <dimen name="scale_145dp">145dp</dimen>
+    <dimen name="scale_150dp">150dp</dimen>
+    <dimen name="scale_160dp">160dp</dimen>
+    <dimen name="scale_170dp">170dp</dimen>
+    <dimen name="scale_175dp">175dp</dimen>
+    <dimen name="scale_180dp">180dp</dimen>
+    <dimen name="scale_185dp">185dp</dimen>
+    <dimen name="scale_200dp">200dp</dimen>
+    <dimen name="scale_215dp">215dp</dimen>
+    <dimen name="scale_225dp">225dp</dimen>
+    <dimen name="scale_230dp">230dp</dimen>
+    <dimen name="scale_320dp">320dp</dimen>
+    <dimen name="scale_250dp">250dp</dimen>
+    <dimen name="scale_300dp">300dp</dimen>
+    <dimen name="scale_325dp">325dp</dimen>
+    <dimen name="scale_350dp">350dp</dimen>
+    <dimen name="scale_400dp">400dp</dimen>
+    <dimen name="scale_450dp">450dp</dimen>
+    <dimen name="scale_500dp">500dp</dimen>
+    <dimen name="scale_negative20">-20dp</dimen>
+    <dimen name="scale_negative30">-30dp</dimen>
+    <dimen name="scale_negative40">-40dp</dimen>
+
+    <!-- TextSizes -->
+    <dimen name="text_xxxxsmall">8sp</dimen>
+    <dimen name="text_xxsmall">10sp</dimen>
+    <dimen name="text_xsmall">12sp</dimen>
+    <dimen name="text_xsmall1">13sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_medium">15sp</dimen>
+    <dimen name="text_normal">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="text_xlarge">20sp</dimen>
+    <dimen name="text_xxxlarge">26sp</dimen>
+    <dimen name="text_xxlarge">22sp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+
+</resources>
